@@ -1,3 +1,6 @@
-questo file è di controlllo di versione
+questo file è di controllo di versione
+aggiungo una riga in mezzo
 questa riga fa parte di una revisione
 modifichiamo due file
+Vediamo cosa succede
+test
